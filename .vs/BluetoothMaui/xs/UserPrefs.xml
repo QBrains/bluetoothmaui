@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{B2672B2B-AA3B-4AFC-8C81-16A99DB44DFB}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_4_API_TiramisuPrivacySandbox" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/BluetoothServer.cs">
+    <Files>
+      <File FileName="Core/Resolver.cs" Line="15" Column="4" />
+      <File FileName="Services/Interfaces/ISoftwareVersion.cs" />
+      <File FileName="Services/SoftwareVersion.cs" />
+      <File FileName="App.xaml.cs" Line="17" Column="1" />
+      <File FileName="Services/Interfaces/IBluetoothServer.cs" />
+      <File FileName="Services/BluetoothServer.cs" Line="23" Column="7" />
+      <File FileName="MauiProgram.cs" Line="22" Column="7" />
+      <File FileName="BluetoothMaui.csproj" Line="1" Column="1" />
+      <File FileName="Core/AppConstants.cs" Line="7" Column="81" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BluetoothMaui" expanded="True">
+            <Node name="BluetoothMaui" expanded="True">
+              <Node name="Core" expanded="True" />
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True" />
+                <Node name="iOS" expanded="True" />
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="AppIcon" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="BluetoothServer.cs" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BluetoothMaui PreferredExecutionTarget="Android.Pixel_4_API_TiramisuPrivacySandbox" />
+  <MultiItemStartupConfigurations />
+</Properties>
